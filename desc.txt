@@ -1,1 +1,2 @@
 With this repo I will test how GitHub works in comination of Windows PowerShell.
+CLI and git commands are different: before a git command, the user must write 'git' and before a CLI command 'gh'.
